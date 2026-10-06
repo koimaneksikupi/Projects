@@ -1,2 +1,2 @@
 # Projects
-This repository contains all projects I have been a part of. Explore the other branches to find out about those projects.
+To find out everything about this project, check out the following repository: https://github.com/kristiclu/Steganography/tree/main 
