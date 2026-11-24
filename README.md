@@ -15,8 +15,8 @@ Across these projects, I focused on following a structured machine learning work
 
 | Project | Task / Domain | Key Tools & Models | Notes / Key Takeaway |
 | :--- | :--- | :--- | :--- |
-| [Heart Disease Classification Project](Heart Disease Classification Project/end-to-end-heart-disease-classification.ipynb) | Classification | `NumPy`, `pandas`, `Matplotlib`, `scikit-learn`, `LogisticRegression`, `RandomForest`, `KNN` | *e.g., An end to end project, heart disease classification, EDA, trying multiple models, evaluating them, tuning the hyperparameters.* |
-| [Bluebook Bulldozer Price Regression Project](Bluebook Bulldozer Price Regression Project/end-to-end-bluebook-bulldozer-price-regression-v2.ipynb) | Regression | `NumPy`, `pandas`, `Matplotlib`, `scikit-learn`, `RandomForestRegressor` | *e.g., An end to end project, Kaggle competition, predicting the price of a bulldozer.* |
+| [Heart Disease Classification Project](.Heart Disease Classification Project/end-to-end-heart-disease-classification.ipynb) | Classification | `NumPy`, `pandas`, `Matplotlib`, `scikit-learn`, `LogisticRegression`, `RandomForest`, `KNN` | *e.g., An end to end project, heart disease classification, EDA, trying multiple models, evaluating them, tuning the hyperparameters.* |
+| [Bluebook Bulldozer Price Regression Project](.Bluebook Bulldozer Price Regression Project/end-to-end-bluebook-bulldozer-price-regression-v2.ipynb) | Regression | `NumPy`, `pandas`, `Matplotlib`, `scikit-learn`, `RandomForestRegressor` | *e.g., An end to end project, Kaggle competition, predicting the price of a bulldozer.* |
 
 
 ## Tech Stack
