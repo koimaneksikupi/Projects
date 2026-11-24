@@ -15,8 +15,8 @@ Across these projects, I focused on following a structured machine learning work
 
 | Project | Task / Domain | Key Tools & Models | Notes / Key Takeaway |
 | :--- | :--- | :--- | :--- |
-| [Heart Disease Classification Project](./path/to/notebook.ipynb) | Classification | `pandas`, `scikit-learn`, `RandomForest` | *e.g., Compared baseline vs. tuned model; watched out for overfitting.* |
-| [Project 2 Name](./path/to/notebook.ipynb) | Tabular / Time Series / etc. | `NumPy`, `Matplotlib`, `XGBoost` | *e.g., Key insight from feature importance or error analysis.* |
+| [Heart Disease Classification Project](./path/to/notebook.ipynb) | Classification | `pandas`, `scikit-learn`, `LogisticRegression`, `RandomForest`, `KNN` | *e.g., An end to end project, heart disease classification, EDA, trying multiple models, evaluating them, tuning the hyperparameters.* |
+| [Bluebook Bulldozer Price Regression Project](./path/to/notebook.ipynb) | Regression | `NumPy`, `pandas`, `Matplotlib`, `scikit-learn` | *e.g., Key insight from feature importance or error analysis.* |
 
 *(Replace or expand rows to match the exact projects in your repo.)*
 
