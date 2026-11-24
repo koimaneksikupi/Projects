@@ -17,6 +17,7 @@ Across these projects, I focused on following a structured machine learning work
 | :--- | :--- | :--- | :--- |
 | [Heart Disease Classification Project](Heart%20Disease%20Classification%20Project/end-to-end-heart-disease-classification.ipynb) | Classification | `NumPy`, `pandas`, `Matplotlib`, `scikit-learn`, `LogisticRegression`, `RandomForest`, `KNN` | *e.g., An end to end project, heart disease classification, EDA, trying multiple models, evaluating them, tuning the hyperparameters.* |
 | [Bluebook Bulldozer Price Regression Project](Bluebook%20Bulldozer%20Price%20Regression%20Project/end-to-end-bluebook-bulldozer-price-regression-v2.ipynb) | Regression | `NumPy`, `pandas`, `Matplotlib`, `scikit-learn`, `RandomForestRegressor` | *e.g., An end to end project, Kaggle competition, predicting the price of a bulldozer.* |
+| [Dog Breed Classification Project](Dog%20Breed%20Classification%20Project/end-to-end-dog-vision.ipynb) | Multi-class image classification | `TensorFlow`, `TransferLearning`, `NumPy`, `pandas`, `Matplotlib` | *e.g., Identify different breeds of dogs, using a model from TensorFlow Hub, evaluating and improving the model.* |
 
 
 ## Tech Stack
